@@ -228,12 +228,6 @@ footer p{margin:0}footer a{color:var(--blue)}
     background-image:url("assets/images/scooby-dooby-doo.png");
 }
 
-.deepfake-project .project-image {
-  background-image: url("assets/images/deepfake.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
 .project-media{
     min-height:420px;
