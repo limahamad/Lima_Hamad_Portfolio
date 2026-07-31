@@ -228,11 +228,7 @@ footer p{margin:0}footer a{color:var(--blue)}
     background-image:url("assets/images/scooby-dooby-doo.png");
 }
 
-.project-image{
-    background-size:cover;
-    background-position:center;
-    background-repeat:no-repeat;
-}
+
 
 .project-media{
     min-height:420px;
